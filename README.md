@@ -17,7 +17,7 @@ gcloud auth login
 export TOKEN=$(gcloud auth print-access-token)
 export PRODUCTS=("cm-legacy-agw-apiproduct")
 export ORG={modificalo-con-el-nombre-de-tu-org}
-export DEVELOPER=soporte-apigee-legacy@coordinadora.com
+export DEVELOPER=soporte-apigee-legacy@domain.com
 ```
 
 Para ejecutar el script debemos correr el siguiente comando:
